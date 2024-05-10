@@ -7,4 +7,4 @@ Crie projeções de novas demandas com base no histórico de pedidos e analise t
 *   Importe o arquivo de pedidos no Google Colab
 *   Importe sua API Key na área "Secrets" do Google Colab
 *   No menu "Ambiente de execução" escolha a opção "Executar tudo"
-
+*   Após a execução será gerado um PDF com sugestões para recuperação de clientes listados como possiveis detratores e um PDF com uma sugestão de campanha de marketing para aumentar vendas em perídos com menores vendas
