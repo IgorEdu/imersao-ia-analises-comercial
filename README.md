@@ -1,0 +1,1 @@
+# imersao-ia-analises-comercial
